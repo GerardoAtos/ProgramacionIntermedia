@@ -1,0 +1,15 @@
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\bin\Debug\net6.0\ProgramacionIntermedia.exe
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\bin\Debug\net6.0\ProgramacionIntermedia.deps.json
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\bin\Debug\net6.0\ProgramacionIntermedia.runtimeconfig.json
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\bin\Debug\net6.0\ProgramacionIntermedia.dll
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\bin\Debug\net6.0\ref\ProgramacionIntermedia.dll
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\bin\Debug\net6.0\ProgramacionIntermedia.pdb
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.csproj.AssemblyReference.cache
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.AssemblyInfoInputs.cache
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.AssemblyInfo.cs
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.csproj.CoreCompileInputs.cache
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.dll
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ref\ProgramacionIntermedia.dll
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.pdb
+C:\Users\a847065\source\repos\ProgramacionIntermedia\ProgramacionIntermedia\obj\Debug\net6.0\ProgramacionIntermedia.genruntimeconfig.cache
